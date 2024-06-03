@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 ```bash
 git clone <Gitlab-clone-link>
-cd ecommerce-api
+cd <project-folder>
 ```
 
 2. **Install Dependencies**
