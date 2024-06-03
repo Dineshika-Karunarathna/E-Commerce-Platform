@@ -1,0 +1,32 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "E-commerce API Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage --runInBand",
+    "start":"node index.js"
+  },
+  "engines":{
+    "node": "20.11.0"
+  },
+  "author": "Dineshika",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "compression": "^1.7.4",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb-memory-server": "^9.2.0",
+    "mongoose": "^8.4.0",
+    "nodemon": "^3.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
