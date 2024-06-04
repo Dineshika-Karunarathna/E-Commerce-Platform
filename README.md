@@ -17,7 +17,7 @@ This project is an E-Commerce API built with Node.js, Express, MongoDB, and Jest
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js (>= 14.x)
+- Node.js (>= 20.x)
 - npm (>= 6.x)
 - MongoDB (Local or MongoDB Atlas)
 
